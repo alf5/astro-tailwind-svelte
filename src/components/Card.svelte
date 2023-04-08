@@ -16,7 +16,7 @@ export let href: string;
 	</a>
 </li>
 
-<style>
+<style lang="css">
 	.link-card {
     @apply hover:bg-[position:0] hover:bg-[image:var(--accent-gradient)]
            focus-within:bg-[position:0] focus-within:bg-[image:var(--accent-gradient)]
